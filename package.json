@@ -1,0 +1,22 @@
+{
+  "name": "Testing-PlayWright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinhtoan2807/Testing-PlayWright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinhtoan2807/Testing-PlayWright/issues"
+  },
+  "homepage": "https://github.com/vinhtoan2807/Testing-PlayWright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.47.1",
+    "@types/node": "^22.5.5"
+  }
+}
